@@ -1,7 +1,7 @@
 # DiamondBox
 
 DiamondBox is an online tool for sketching and sharing instrumental music.
-You can find it [here](https://terabyte-official.github.io/diamondbox).
+You can find it [here](https://terabyte-official.github.io/diamondbox/website).
 It is a modification of GoldBox, which, in turn, is a modification of JummBox, which, in turn again, is a modifcation of the [original BeepBox](https://beepbox.co).
 
 The primary goal of DiamondBox is to expand on GoldBox and add new features to it.
