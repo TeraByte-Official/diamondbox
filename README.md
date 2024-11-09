@@ -16,6 +16,8 @@ DiamondBox, as well as GoldBox, Jummbox, and, Beepbox which it's based on, are f
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)!
 JummBox is developed by [Jummbus](http://www.twitter.com/jummbus), and GoldBox is developed by [AurySystem](https://github.com/AurySystem).
 
+If you're seeing this on the site page, something is very wrong.
+
 ## Compiling
 
 The compilation procedure is identical to the repository for BeepBox. I will include the excerpt on compiling from that page's readme below for convenience:
