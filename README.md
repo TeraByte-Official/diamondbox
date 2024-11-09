@@ -1,10 +1,10 @@
-# GoldBox
+# DiamondBox
 
-GoldBox is an online tool for sketching and sharing instrumental music.
-You can find it [here](https://aurysystem.github.io/goldbox).
-It is a modification of JummBox which inturn is a modifcation of the [original BeepBox](https://beepbox.co).
+DiamondBox is an online tool for sketching and sharing instrumental music.
+You can find it [here](https://terabyte-official.github.io/diamondbox).
+It is a modification of GoldBox, which, in turn, is a modification of JummBox, which, in turn again, is a modifcation of the [original BeepBox](https://beepbox.co).
 
-The primary goal of GoldBox is to incrase the range of sounds an timbres Beepbox is capable of as well as adding new automations and small features to reduce repetive actions.
+The primary goal of DiamondBox is to expand on GoldBox and add new features to it.
 
 
 All song data is packaged into the URL at the top of your browser. When you make
@@ -12,9 +12,9 @@ changes to the song, the URL is updated to reflect your changes. When you are
 satisfied with your song, just copy and paste the URL to save and share your
 song!
 
-GoldBox, as well as Jummbox and Beepbox which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
+DiamondBox, as well as GoldBox, Jummbox, and, Beepbox which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)!
-JummBox is developed by [Jummbus](http://www.twitter.com/jummbus).
+JummBox is developed by [Jummbus](http://www.twitter.com/jummbus), and GoldBox is developed by [AurySystem](https://github.com/AurySystem).
 
 ## Compiling
 
@@ -32,7 +32,7 @@ npm install
 npm run build
 ```
 
-A note for GoldBox: You may also have to install these additional dependencies if they are not picked up automatically.
+A note for DiamondBox: You may also have to install these additional dependencies if they are not picked up automatically.
 
 ```
 npm install select2
