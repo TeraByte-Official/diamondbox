@@ -6,7 +6,6 @@ It is a modification of GoldBox, which, in turn, is a modification of JummBox, w
 
 The primary goal of DiamondBox is to expand on GoldBox and add new features to it.
 
-i rember is currently trying to get the editor working properly.
 
 All song data is packaged into the URL at the top of your browser. When you make
 changes to the song, the URL is updated to reflect your changes. When you are
@@ -16,6 +15,8 @@ song!
 DiamondBox, as well as GoldBox, Jummbox, and, Beepbox which it's based on, are free projects. If you ever feel so inclined, please support the original creator, [John Nesky](http://www.johnnesky.com/), via
 [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QZJTX9GRYEV9N&currency_code=USD)!
 JummBox is developed by [Jummbus](http://www.twitter.com/jummbus), and GoldBox is developed by [AurySystem](https://github.com/AurySystem).
+
+If you're seeing this on the site page, something is very wrong.
 
 ## Compiling
 
